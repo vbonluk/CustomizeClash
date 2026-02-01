@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,hubstudio.vip
   - DOMAIN-SUFFIX,testfairy.com
   - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN,skinny.co.nz
+  - DOMAIN-KEYWORD,skinny.co.nz
